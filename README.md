@@ -1,4 +1,4 @@
-<h1 align="center">🍪 Cookie-Lesson</h1>
+<h1 align="center">🍪 Cookies-Lesson</h1>
 <p align="center">Lezione interattiva e dimostrativa su sicurezza web, attacchi XSS, sniffing cookie e protezione tramite Cloudflare.</p>
 
 <p align="center">
